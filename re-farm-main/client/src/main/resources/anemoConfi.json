@@ -1,0 +1,16 @@
+[
+  {
+     "id": 5,
+     "direction":"NordEst",
+     "speed":30,
+     "label":"Anemo 5",
+    "status":true
+  },
+  {
+    "id": 4,
+    "direction":"SudEst",
+    "speed":20,
+    "label":"Anemo 4",
+    "status": false
+  }
+]

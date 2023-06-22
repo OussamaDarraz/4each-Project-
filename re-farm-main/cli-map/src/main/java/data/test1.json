@@ -1,0 +1,17 @@
+[
+    {
+        "label" : "Champ de blé",
+        "descr" : "Description du champ de blé.",
+        "type" : "FIELD"
+    },
+    {
+        "label" : "Capteur de pluie",
+        "descr" : "Récupère et mesure l'eau de pluie.",
+        "type" : "SENSOR"
+    },
+    {
+        "label" : "Cabane",
+        "descr" : "Cabane pour ranger des outils.",
+        "type" : "BUILDING"
+    }
+]

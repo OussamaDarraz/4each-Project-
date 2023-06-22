@@ -1,0 +1,450 @@
+[
+{
+  "id": 71,
+  "position": "Place 1",
+  "direction": "Est",
+  "speed": 10,
+  "timedate": "2021-11-08 00:00:00.000000",
+  "label": "Anemo 1"
+},
+{
+"id": 72,
+"position": "Place 1",
+"direction": "Nord",
+"speed": 15,
+"timedate": "2021-11-08 12:00:00.000000",
+"label": "Anemo 1"
+},
+{
+"id": 73,
+"position": "Place 1",
+"direction": "NordEst",
+"speed": 12,
+"timedate": "2021-11-09 00:00:00.000000",
+"label": "Anemo 1"
+},
+{
+"id": 74,
+"position": "Place 1",
+"direction": "SudEst",
+"speed": 11,
+"timedate": "2021-11-09 12:00:00.000000",
+"label": "Anemo 1"
+},
+{
+"id": 75,
+"position": "Place 1",
+"direction": "Sud",
+"speed": 13,
+"timedate": "2021-11-10 00:00:00.000000",
+"label": "Anemo 1"
+},
+{
+"id": 76,
+"position": "Place 1",
+"direction": "Est",
+"speed": 14,
+"timedate": "2021-11-10 12:00:00.000000",
+"label": "Anemo 1"
+},
+{
+"id": 77,
+"position": "Place 1",
+"direction": "Nord",
+"speed": 11,
+"timedate": "2021-11-11 00:00:00.000000",
+"label": "Anemo 1"
+},
+{
+"id": 78,
+"position": "Place 1",
+"direction": "Sud",
+"speed": 17,
+"timedate": "2021-11-11 12:00:00.000000",
+"label": "Anemo 1"
+},
+{
+"id": 79,
+"position": "Place 1",
+"direction": "Est",
+"speed": 20,
+"timedate": "2021-11-12 00:00:00.000000",
+"label": "Anemo 1"
+},
+{
+"id": 80,
+"position": "Place 1",
+"direction": "Nord",
+"speed": 21,
+"timedate": "2021-11-12 12:00:00.000000",
+"label": "Anemo 1"
+},
+{
+"id": 81,
+"position": "Place 1",
+"direction": "Est",
+"speed": 19,
+"timedate": "2021-11-13 00:00:00.000000",
+"label": "Anemo 1"
+},
+{
+"id": 82,
+"position": "Place 1",
+"direction": "NordOuest",
+"speed": 18,
+"timedate": "2021-11-13 12:00:00.000000",
+"label": "Anemo 1"
+},
+  {
+    "id": 83,
+    "position": "Place 1",
+    "direction": "NordEst",
+    "speed": 30,
+    "timedate": "2021-11-14 00:00:00.000000",
+    "label": "Anemo 1"
+  },
+  {
+    "id": 84,
+    "position": "Place 1",
+    "direction": "SudEst",
+    "speed": 20,
+    "timedate": "2021-11-14 12:00:00.000000",
+    "label": "Anemo 1"
+  },
+  {
+    "id": 85,
+    "position": "Place 2",
+    "direction": "SudEst",
+    "speed": 11,
+    "timedate": "2021-11-08 00:00:00.000000",
+    "label": "Anemo 2"
+  },
+  {
+    "id": 86,
+    "position": "Place 2",
+    "direction": "Ouest",
+    "speed": 15,
+    "timedate": "2021-11-08 12:00:00.000000",
+    "label": "Anemo 2"
+  },
+  {
+    "id": 87,
+    "position": "Place 2",
+    "direction": "Nord",
+    "speed": 13,
+    "timedate": "2021-11-09 00:00:00.000000",
+    "label": "Anemo 2"
+  },
+  {
+    "id": 88,
+    "position": "Place 2",
+    "direction": "Est",
+    "speed": 16,
+    "timedate": "2021-11-09 12:00:00.000000",
+    "label": "Anemo 2"
+  },
+  {
+    "id": 89,
+    "position": "Place 2",
+    "direction": "Sud",
+    "speed": 18,
+    "timedate": "2021-11-10 00:00:00.000000",
+    "label": "Anemo 2"
+  },
+  {
+    "id": 90,
+    "position": "Place 2",
+    "direction": "Est",
+    "speed": 12,
+    "timedate": "2021-11-10 12:00:00.000000",
+    "label": "Anemo 2"
+  },
+  {
+    "id": 91,
+    "position": "Place 2",
+    "direction": "Ouest",
+    "speed": 10,
+    "timedate": "2021-11-11 00:00:00.000000",
+    "label": "Anemo 2"
+  },
+  {
+    "id": 92,
+    "position": "Place 2",
+    "direction": "Est",
+    "speed": 20,
+    "timedate": "2021-11-11 12:00:00.000000",
+    "label": "Anemo 2"
+  },
+  {
+    "id": 93,
+    "position": "Place 2",
+    "direction": "Ouest",
+    "speed": 21,
+    "timedate": "2021-11-12 00:00:00.000000",
+    "label": "Anemo 2"
+  },
+  {
+    "id": 94,
+    "position": "Place 2",
+    "direction": "NordEst",
+    "speed": 22,
+    "timedate": "2021-11-12 12:00:00.000000",
+    "label": "Anemo 2"
+  },
+  {
+    "id": 95,
+    "position": "Place 2",
+    "direction": "SudEst",
+    "speed": 17,
+    "timedate": "2021-11-13 00:00:00.000000",
+    "label": "Anemo 2"
+  },
+  {
+    "id": 96,
+    "position": "Place 2",
+    "direction": "SudOuest",
+    "speed": 18,
+    "timedate": "2021-11-13 12:00:00.000000",
+    "label": "Anemo 2"
+  },
+  {
+    "id": 97,
+    "position": "Place 2",
+    "direction": "NordEst",
+    "speed": 21,
+    "timedate": "2021-11-14 00:00:00.000000",
+    "label": "Anemo 2"
+  },
+  {
+    "id": 98,
+    "position": "Place 2",
+    "direction": "SudESt",
+    "speed": 22,
+    "timedate": "2021-11-14 12:00:00.000000",
+    "label": "Anemo 2"
+  },
+  {
+    "id": 99,
+    "position": "Place 3",
+    "direction": "NordOuest",
+    "speed": 18,
+    "timedate": "2021-11-08 00:00:00.000000",
+    "label": "Anemo 3"
+  },
+  {
+    "id": 100,
+    "position": "Place 3",
+    "direction": "SudEst",
+    "speed": 17,
+    "timedate": "2021-11-08 12:00:00.000000",
+    "label": "Anemo 3"
+  },
+  {
+    "id": 101,
+    "position": "Place 3",
+    "direction": "Nord",
+    "speed": 15,
+    "timedate": "2021-11-09 00:00:00.000000",
+    "label": "Anemo 3"
+  },
+  {
+    "id": 102,
+    "position": "Place 3",
+    "direction": "Sud",
+    "speed": 13,
+    "timedate": "2021-11-09 12:00:00.000000",
+    "label": "Anemo 3"
+  },
+  {
+    "id": 103,
+    "position": "Place 3",
+    "direction": "Est",
+    "speed": 12,
+    "timedate": "2021-11-10 00:00:00.000000",
+    "label": "Anemo 3"
+  },
+  {
+    "id": 104,
+    "position": "Place 3",
+    "direction": "Nord",
+    "speed": 12,
+    "timedate": "2021-11-10 12:00:00.000000",
+    "label": "Anemo 3"
+  },
+  {
+    "id": 105,
+    "position": "Place 3",
+    "direction": "Est",
+    "speed": 11,
+    "timedate": "2021-11-11 00:00:00.000000",
+    "label": "Anemo 3"
+  },
+  {
+    "id": 106,
+    "position": "Place 3",
+    "direction": "Sud",
+    "speed": 17,
+    "timedate": "2021-11-11 12:00:00.000000",
+    "label": "Anemo 3"
+  },
+  {
+    "id": 107,
+    "position": "Place 3",
+    "direction": "Est",
+    "speed": 16,
+    "timedate": "2021-11-12 00:00:00.000000",
+    "label": "Anemo 3"
+  },
+  {
+    "id": 108,
+    "position": "Place 3",
+    "direction": "Ouest",
+    "speed": 19,
+    "timedate": "2021-11-12 12:00:00.000000",
+    "label": "Anemo 3"
+  },
+  {
+    "id": 109,
+    "position": "Place 3",
+    "direction": "Sud",
+    "speed": 20,
+    "timedate": "2021-11-13 00:00:00.000000",
+    "label": "Anemo 3"
+  },
+  {
+    "id": 110,
+    "position": "Place 3",
+    "direction": "Ouest",
+    "speed": 21,
+    "timedate": "2021-11-13 12:00:00.000000",
+    "label": "Anemo 3"
+  },
+  {
+    "id": 111,
+    "position": "Place 3",
+    "direction": "Est",
+    "speed": 22,
+    "timedate": "2021-11-14 00:00:00.000000",
+    "label": "Anemo 3"
+  },
+  {
+    "id": 112,
+    "position": "Place 3",
+    "direction": "Est",
+    "speed": 70,
+    "timedate": "2021-11-14 12:00:00.000000",
+    "label": "Anemo 3"
+  },
+  {
+    "id": 113,
+    "position": "Place 4",
+    "direction": "Nord",
+    "speed": 12,
+    "timedate": "2021-11-08 00:00:00.000000",
+    "label": "Anemo 4"
+  },
+  {
+    "id": 114,
+    "position": "Place 4",
+    "direction": "Ouest",
+    "speed": 13,
+    "timedate": "2021-11-08 12:00:00.000000",
+    "label": "Anemo 4"
+  },
+  {
+    "id": 115,
+    "position": "Place 4",
+    "direction": "Nord",
+    "speed": 15,
+    "timedate": "2021-11-09 00:00:00.000000",
+    "label": "Anemo 4"
+  },
+  {
+    "id": 116,
+    "position": "Place 4",
+    "direction": "SudEst",
+    "speed": 17,
+    "timedate": "2021-11-09 12:00:00.000000",
+    "label": "Anemo 4"
+  },
+  {
+    "id": 117,
+    "position": "Place 4",
+    "direction": "SudOuest",
+    "speed": 18,
+    "timedate": "2021-11-10 00:00:00.000000",
+    "label": "Anemo 4"
+  },
+  {
+    "id": 118,
+    "position": "Place 4",
+    "direction": "Nord",
+    "speed": 17,
+    "timedate": "2021-11-10 12:00:00.000000",
+    "label": "Anemo 4"
+  },
+  {
+    "id": 119,
+    "position": "Place 4",
+    "direction": "Est",
+    "speed": 19,
+    "timedate": "2021-11-11 00:00:00.000000",
+    "label": "Anemo 4"
+  },
+  {
+    "id": 120,
+    "position": "Place 4",
+    "direction": "Est",
+    "speed": 20,
+    "timedate": "2021-11-11 12:00:00.000000",
+    "label": "Anemo 4"
+  },
+  {
+    "id": 121,
+    "position": "Place 4",
+    "direction": "Ouest",
+    "speed": 21,
+    "timedate": "2021-11-12 00:00:00.000000",
+    "label": "Anemo 4"
+  },
+  {
+    "id": 122,
+    "position": "Place 4",
+    "direction": "Nord",
+    "speed": 22,
+    "timedate": "2021-11-12 12:00:00.000000",
+    "label": "Anemo 4"
+  },
+  {
+    "id": 123,
+    "position": "Place 4",
+    "direction": "Est",
+    "speed": 24,
+    "timedate": "2021-11-13 00:00:00.000000",
+    "label": "Anemo 4"
+  },
+  {
+    "id": 124,
+    "position": "Place 4",
+    "direction": "Nord",
+    "speed": 16,
+    "timedate": "2021-11-13 12:00:00.000000",
+    "label": "Anemo 4"
+  },
+  {
+    "id": 125,
+    "position": "Place 4",
+    "direction": "Est",
+    "speed": 15,
+    "timedate": "2021-11-14 00:00:00.000000",
+    "label": "Anemo 4"
+  },
+  {
+    "id": 126,
+    "position": "Place 4",
+    "direction": "Nord",
+    "speed": 80,
+    "timedate": "2021-11-14 12:00:00.000000",
+    "label": "Anemo 4"
+  }
+]
